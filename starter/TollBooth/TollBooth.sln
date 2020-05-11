@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TollBooth", "TollBooth.csproj", "{146A5E82-C8A7-4093-BC4C-11C82B070220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadImages", "..\UploadImages\UploadImages.csproj", "{A7110625-77CF-45DD-920F-F35E8A4740BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146A5E82-C8A7-4093-BC4C-11C82B070220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146A5E82-C8A7-4093-BC4C-11C82B070220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146A5E82-C8A7-4093-BC4C-11C82B070220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146A5E82-C8A7-4093-BC4C-11C82B070220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F84B72C-FA8E-48ED-9668-EE91416CC9A0}
+	EndGlobalSection
+EndGlobal
