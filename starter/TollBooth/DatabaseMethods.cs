@@ -51,6 +51,7 @@ namespace TollBooth
             exportedCount = licensePlates.Count();
             _log.LogInformation($"{exportedCount} license plates found that are ready for export");
             return licensePlates;
+
         }
 
         /// <summary>
