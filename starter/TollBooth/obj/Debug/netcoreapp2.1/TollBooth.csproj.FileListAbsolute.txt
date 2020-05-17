@@ -73,10 +73,10 @@ C:\Dev\Serverless-architecture\starter\TollBooth\bin\Debug\netcoreapp2.1\bin\run
 C:\Dev\Serverless-architecture\starter\TollBooth\bin\Debug\netcoreapp2.1\bin\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
 C:\Dev\Serverless-architecture\starter\TollBooth\bin\Debug\netcoreapp2.1\bin\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
 C:\Dev\Serverless-architecture\starter\TollBooth\bin\Debug\netcoreapp2.1\bin\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
-C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.csprojAssemblyReference.cache
 C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.csproj.CoreCompileInputs.cache
 C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.AssemblyInfoInputs.cache
 C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.AssemblyInfo.cs
 C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.csproj.CopyComplete
 C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.dll
 C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.pdb
+C:\Dev\Serverless-architecture\starter\TollBooth\obj\Debug\netcoreapp2.1\TollBooth.csprojAssemblyReference.cache
